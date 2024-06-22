@@ -39,3 +39,4 @@
 - `php artisan migrate --seed`
 - `php artisan serve`
 
+Работающий образец: https://advert-service.bugaev-dev.ru/
