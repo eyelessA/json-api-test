@@ -47,8 +47,8 @@ export default {
 		<select class="form-select w-25" aria-label="Default select example" v-model="sort">
 			<option value="price_asc">По возрастанию цены</option>
 			<option value="price_desc">По убыванию цены</option>
-			<option value="created_at_asc">Сначала новые</option>
-			<option value="created_at_desc">Сначала старые</option>
+			<option value="created_at_desc">Сначала новые</option>
+			<option value="created_at_asc">Сначала старые</option>
 		</select>
 	</div>
 
