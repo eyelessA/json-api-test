@@ -30,6 +30,7 @@
 
 ## Как запустить
 - `git clone https://github.com/eyelessA/json-api-test.git`
+- установить необходимые расширения php
 - `composer install`
 - `npm install`
 - `npm run dev`
