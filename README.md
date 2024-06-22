@@ -29,7 +29,7 @@
 Код должен быть выложен на github или gitlab.
 
 ## Как запустить
-- `git clone https://github.com/eyelessA/json-api.git`
+- `git clone https://github.com/eyelessA/json-api-test.git`
 - `composer install`
 - `npm install`
 - `npm run dev`
