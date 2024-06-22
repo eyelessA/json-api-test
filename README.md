@@ -33,6 +33,9 @@
 - `composer install`
 - `npm install`
 - `npm run dev`
+- установить .env
+- `docker compose up -d` - для работы с mysql, можно без докера через sqlite.
+- `php artisan key:generate`
 - `php artisan migrate --seed`
 - `php artisan serve`
-- `docker composer up -d` - для работы с mysql, можно без докера через sqlite.
+
